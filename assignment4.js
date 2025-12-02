@@ -1,5 +1,5 @@
 
-//1.array
+//1.find occurances in array
 
 const nums = [2, 4, 5, 2, 1, 2];
 const k = 4;
@@ -14,6 +14,14 @@ for (let i = 0; i < nums.length; i++) {
     }
 }
 console.log(count); 
+
+
+
+
+
+
+
+
 
 //2. intersection
 
