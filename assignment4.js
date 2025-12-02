@@ -43,7 +43,7 @@ function userProfile(name) {
 }
 
 // Example call
-userProfile("Arun");
+userProfile("arun");
 
 
 const double = (num) => {
